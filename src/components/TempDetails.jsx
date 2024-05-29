@@ -68,7 +68,7 @@ const TempDetails = ({
   ];
   return (
     <div>
-      <div className="flex items-center justify-center py-4 text-xl text-cyan-300">
+      <div className="flex items-center justify-center py-4 text-xl text-white">
         <p>{details}</p>
       </div>
 

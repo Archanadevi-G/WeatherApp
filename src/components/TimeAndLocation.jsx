@@ -4,7 +4,7 @@ const TimeAndLocation = ({
   return (
     <div>
       <div className="flex items-center justify-center my-4 ">
-        <p className="text-base md:text-lg lg:text-xl xl:text-2xl font-light">
+        <p className="text-[12px]  md:text-lg lg:text-xl xl:text-2xl ">
           {formattedLocalTime}
         </p>
       </div>
