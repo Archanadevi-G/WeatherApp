@@ -71,7 +71,7 @@ const App = () => {
     }
     if (icon.includes("50")) {
       if (icon.includes("d")) return "from-sky-300 to-blue-200";
-      if (icon.includes("n")) return "from-gray-700 to-gray-600";
+      if (icon.includes("n")) return "from-gray-400 to-slate-600";
     }
   };
 
